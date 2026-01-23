@@ -29,11 +29,8 @@ Framer Motion • Redux • React Query • Zustand • Vite
 
 ## 🔥 What I'm Building
 
-**⚡ E-commerce Experiences**  
-High-performance storefronts with 60fps animations & PWA capabilities
-
-**📊 Admin Dashboards**  
-Real-time analytics with beautiful dark mode implementations
+**⚡ Modern Experiences**  
+High-performance UI translation with highly interactive microintractions
 
 **🎨 Component Libraries**  
 Reusable, accessible UI components that scale
@@ -55,7 +52,7 @@ Reusable, accessible UI components that scale
 
 ---
 
-<div align="center">
+<div>
 
 ## 💭 Philosophy
 
@@ -73,7 +70,7 @@ const developer = {
 
 <div align="center">
 
-### 🚀 Building the future of e-commerce, one component at a time
+### 🚀 Contributing in frontend, one component at a time
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
